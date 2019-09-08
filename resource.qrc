@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>res/box.png</file>
+        <file>res/box_t.png</file>
+        <file>res/charater.png</file>
+        <file>res/man.png</file>
+        <file>res/target.png</file>
+        <file>res/wall.png</file>
+    </qresource>
+    <qresource prefix="/map">
+        <file>maps/map1.txt</file>
+        <file>maps/map2.txt</file>
+    </qresource>
+</RCC>
